@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EvaOH
-- 👀 I’m interested in webmasters.io.
+- 👀 I’m interested in wpicert.org
 - 🌱 I’m currently learning to understand software developers. ;-)
 - 💞️ I’m looking to collaborate on project management/SCRUM process.
 - 📫 How to reach me: e.oldhaus@webmasters.de
